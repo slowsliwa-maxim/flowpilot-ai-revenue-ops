@@ -1,0 +1,11 @@
+{
+  "name": "flowpilot-ai-workflow-hub",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-assisted revenue operations dashboard for lead qualification, pipeline analytics, and workflow automation.",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}
