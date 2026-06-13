@@ -27,7 +27,6 @@ integration, tests, and public deployment.
 This project helped me combine full-stack development, data analysis, workflow
 automation, and applied AI around a real business problem.
 
-GitHub: [ADD YOUR GITHUB REPOSITORY LINK]
+GitHub: https://github.com/slowsliwa-maxim/flowpilot-ai-revenue-ops
 
 #FullStackDevelopment #NodeJS #DataAnalytics #ArtificialIntelligence #Automation #n8n #WebDevelopment #OpenToWork
-
